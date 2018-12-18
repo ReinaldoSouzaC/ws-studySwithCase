@@ -18,6 +18,9 @@ public class Swith {
 			case 2:
 				caso = "Caso 2";
 				break;
+			case 3:
+				caso = "Caso 3 ";
+				break;
 			default: // Invalid case
 				caso = "Caso invalido";
 				break; // To break the switch
